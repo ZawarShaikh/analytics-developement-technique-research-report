@@ -17,3 +17,6 @@ The results have shown that the different data analysis techniques, Data preproc
 
 CONCLUSION: 
 Our research leads us to the conclusion that it is possible to estimate the sales of APPLE INC stocks prices with accuracy using a data-driven strategy. Our insights may be used to Apple Inc or any other company in a related industry to enhance decision-making and generate value through forecasting.
+
+
+![image](https://github.com/ZawarShaikh/analytics-developement-technique-research-report/assets/108583648/290eac7b-ba0c-4e73-91b7-9800eac580a1)
